@@ -6,5 +6,3 @@ we use the language 'Mark down', 'html'
 버전 2에서의 커밋용문구
 1
 2
-sdfsdfsdf
-rever 용
